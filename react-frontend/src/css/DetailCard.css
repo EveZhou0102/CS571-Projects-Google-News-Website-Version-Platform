@@ -1,0 +1,17 @@
+.tooltip {
+  padding: 0.2rem 0.5rem;
+}
+/* #detailDescriptionhidden {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  font-size: 1.1rem;
+} */
+.detailImage {
+  width: 100%;
+  max-width: 100%;
+}
+.Toastify__toast {
+  color: black;
+}

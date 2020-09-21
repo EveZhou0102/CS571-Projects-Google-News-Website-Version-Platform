@@ -1,0 +1,13 @@
+.topNews {
+  margin: 1rem;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #152340, #4060b0);
+  color: white;
+}
+
+.Toastify__toast-body {
+  font-size: 1rem;
+  font-weight: normal;
+}

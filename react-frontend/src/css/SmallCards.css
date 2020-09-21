@@ -1,0 +1,38 @@
+.sectionTag {
+  padding: 0 5px;
+  border-radius: 5px;
+  background-color: grey;
+  color: white;
+}
+.world {
+  background-color: #7c4eff;
+  color: white;
+}
+.politics {
+  background-color: #419488;
+  color: white;
+}
+.business {
+  background-color: #4696ec;
+  color: white;
+}
+.technology {
+  background-color: #cedc39;
+  color: black;
+}
+.sports {
+  background-color: #f6c244;
+  color: black;
+}
+.health {
+  background-color: #6e757c;
+  color: white;
+}
+.guardian {
+  background-color: #14284a;
+  color: white;
+}
+.nytimes {
+  background-color: #dddddd;
+  color: black;
+}
